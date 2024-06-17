@@ -57,10 +57,18 @@ class Comandos: IComando {
 
                     }
                     "-pi $filePath -bd" -> {
-
+                        try {
+                            BD.almacenarDatosEnBD()
+                        } catch (e: Exception) {
+                            println("Error al ejecutar mostrarDatos(): ${e.message}")
+                        }
                     }
                     "-bd q" -> {
-
+                        try {
+                            BD.mostrarDatosDesdeBD()
+                        } catch (e: Exception) {
+                            println("Error al ejecutar mostrarDatos(): ${e.message}")
+                        }
                     }
                     "-bd qi" -> {
 

@@ -1,3 +1,5 @@
+import GBD.GestionBD
+import GDatos.GestionDatos
 import GFicheros.GestionFichero
 import comandos.Comandos
 
@@ -8,4 +10,11 @@ fun main(){
     val iniciarComandos= Comandos()
     iniciarComandos.leerComando()
 
+
+
+
+
+
 }
+
+

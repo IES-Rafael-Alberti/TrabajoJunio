@@ -311,11 +311,12 @@ class GestionDatos: IDatos {
         return valoresExtraidos
     }
 
+
     /**
      * Muestra los datos almacenados en el archivo CSV de manera formateada.
      */
     companion object {
-        fun mostrarDatos(gestionDatos: GestionDatos) {
+        fun mostrarDatos(gestionDatos:GestionDatos) {
             val iniciales = gestionDatos.almacenarIniciales()
             val nombres = gestionDatos.almacenarNombres()
             val modulo = gestionDatos.obtenerModulo()

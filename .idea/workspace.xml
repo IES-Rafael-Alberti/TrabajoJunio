@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191888d1-2737-42d5-b14b-7178d3413669" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TrabajoJunio_jvm_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="191888d1-2737-42d5-b14b-7178d3413669" name="Changes" comment="Trabajo Junio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/GDatos/GestionDatos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/GDatos/GestionDatos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/datosTabla/AlumnoCEData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/datosTabla/AlumnoCEData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvmMain/kotlin/datosTabla/AlumnoRAData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvmMain/kotlin/datosTabla/AlumnoRAData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +43,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -71,7 +61,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ruben/IdeaProjects/ProyectoJunio"
+    "last_opened_file_path": "C:/Users/ruben/IdeaProjects/pro-2324-trim3-RubenRamIgl"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,7 +69,15 @@
       <recent name="C:\Users\ruben\IdeaProjects\TrabajoJunio\src\jvmMain\kotlin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ruben\IdeaProjects\TrabajoJunio\src\jvmMain\kotlin\InterfazGrafica" />
       <recent name="C:\Users\ruben\IdeaProjects\TrabajoJunio\src\jvmMain\kotlin\archivos" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="datosTabla" />
+      <recent name="GBD" />
+      <recent name="GFicheros" />
+      <recent name="GDatos" />
+      <recent name="comandos" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,9 +89,21 @@
       <option name="presentableId" value="Default" />
       <updated>1718315070989</updated>
     </task>
+    <task id="LOCAL-00001" summary="Trabajo Junio">
+      <created>1718573389954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718573389954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trabajo Junio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabajo Junio" />
   </component>
 </project>
